@@ -55,7 +55,7 @@ is currently running at 48 kHz.
 To create an Ardour session after Ardour has already started, select
 **Session** > **New** in the menu.
 
-TIP:
+TIP: what's the tip?
 
 Continuing
 ----------
