@@ -62,6 +62,8 @@ Alternatively, click on the menu *Track > Add Track/Bus* (shortcut
 
 ![Add Track]({{ site.url }}/images/Ardour4_Add_Track_or_Bus.png) 
 
+---New Screenshot to include "Insert" drop-down option---
+
 **Add** lets you specify how many Tracks (or Busses) you would to like
 to create.
 
