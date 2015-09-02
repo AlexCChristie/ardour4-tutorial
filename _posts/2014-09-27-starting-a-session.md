@@ -52,6 +52,8 @@ to open a Session created at the current JACK Sample Rate. For example,
 a Session created when JACK was running at 96 kHz will not open if JACK
 is currently running at 48 kHz.
 
+---Second Startup Window?---
+
 To create an Ardour session after Ardour has already started, select
 **Session** > **New** in the menu.
 
