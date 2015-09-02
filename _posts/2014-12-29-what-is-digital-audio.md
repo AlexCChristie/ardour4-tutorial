@@ -22,7 +22,7 @@ System" in this case is your computer running **Ardour.**
 
 ## Frequency and Gain
 
-Imagine a loudspeaker. To move the air in front of it and make sound,
+Imagine a loudspeaker! To move the air in front of it and make sound,
 the membrane of the speaker must vibrate from its center position (at
 rest) backwards and forwards. The number of times the membrane vibrates
 each second determines the **Frequency** (the note, or *pitch*) of the
