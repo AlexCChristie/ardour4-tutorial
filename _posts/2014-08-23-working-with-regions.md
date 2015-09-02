@@ -144,7 +144,7 @@ markers that you see in the screenshot above. If you don't see the
 ## Splitting Regions
 
 To **Split** a Region simply means to divide a single Region into two
-independent Regions. This point at which a Region will be split depends
+independent Regions. Add a sentence about Cut Mode.  This point at which a Region will be split depends
 on the currently selected Edit Point. If Mouse is selected as your
 current Edit Point, select a Region and place the cursor at the point
 you would like to Split. Click on **Edit** > **Split Region** (shortcut
