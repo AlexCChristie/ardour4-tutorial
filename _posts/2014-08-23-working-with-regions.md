@@ -140,6 +140,7 @@ TIP: when you first create a new session, two location markers are
 automatically added by default. These are the **start** and **end**
 markers that you see in the screenshot above. If you don't see the
 **end** marker, zoom out enough and you will find it. 
+---This TIP format doesn't match the others---
 
 ## Splitting Regions
 
