@@ -136,6 +136,8 @@ reads "*post*" in the image above), you will be able to select the
 **Metering Point**, for example the direct "*in*" from the sound card,
 the "*pre*" Fader signal, or the "*post*" fader signal.
 
+---It seems that Ardour 4 has more options now (like "Custom" and "Out")
+
 As you can see in the image below, there is a smaller version of the
 Mixer Strip in each Track, called the **Track Mixer**, which contains a
 horizontal **Fader**, a vertical **Peak Meter** as well as miniature
