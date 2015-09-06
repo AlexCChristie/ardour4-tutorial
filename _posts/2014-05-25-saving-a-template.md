@@ -34,6 +34,7 @@ You can save a new Template from the Main Menu: *Session > Save Template*. You a
 When creating a new Session, you get can now load up a previously saved Template:
 
 ![template2]({{ site.url }}/images/Ardour4_Save_Template_2.png)
+---missing or broken image for "load a template"---
 
 In summary: Session Templates are a way to store the setup of a session for future use. They do not store any audio data but can store:
 
