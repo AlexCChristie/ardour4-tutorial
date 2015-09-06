@@ -20,6 +20,7 @@ sharing all the audio and data files of the Session.
 You can save a Snapshot via the menu: *Session > Snapshot* (shortcut "*Control*" + "*Shift*" + "*S*").
 
 ![snapshots]({{ site.url }}/images/Ardour4_Snapshots_Menu.png)
+---missing/broken image---
 
 By default the program will name the new Snapshot according to the
 current date and timestamp of your system. If you wish, you can change
