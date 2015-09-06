@@ -61,6 +61,7 @@ sure that the Bus outputs are Routed to the Master Bus, as shown below
 (button at bottom reads "*master*").
 
 ![sends2]({{ site.url }}/images/Ardour3_Sends_2.png) 
+---broken or missing image---
 
 Also, open the Plugin Window (double click on the Freeverb rectangle) and set the Plugin's signal mix to 1.0 Wet
 Level and 0.0 Dry Level. 
